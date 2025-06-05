@@ -15,6 +15,7 @@ Além disso, o programa imprime uma mensagem no console informando que a operaç
    ```bash
    git clone https://github.com/lucasxavila/atividade-log.git
 3. Navegue até o diretório do projeto:
+   ´´´bash
    cd atividade-log
 4. Compile os arquivos Java:
    ```bash
