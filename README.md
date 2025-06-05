@@ -8,7 +8,7 @@ O programa realiza uma operação de divisão entre dois números inteiros. Caso
 
 Além disso, o programa imprime uma mensagem no console informando que a operação foi finalizada, independentemente de erro ou não.
 
-## Como Eexecutar
+## Como Executar
 
 1. Certifique-se de ter o Java JDK instalado em sua máquina.
 2. Clone este repositório:
